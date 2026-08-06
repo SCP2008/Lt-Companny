@@ -1,0 +1,19 @@
+{
+  "name": "lt-companny",
+  "version": "1.0.0",
+  "description": "LT Company - Premium Streetwear",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step required for static site'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "streetwear",
+    "fashion"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
